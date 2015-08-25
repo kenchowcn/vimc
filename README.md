@@ -2,7 +2,7 @@ This is my Vim configuration, and it was from another vimer, I usually use Emacs
 
 ##Recipe
 ####Step 1
-	mv ~/.vim ~/.vim_bk ; git clone https://github.com/kenchowcn/vimc.git ~/.vim/vimc && git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle && ln -s ~/.vim/vimc/vimrc ~/.vimrc && echo "Install success Step 1."
+	mv ~/.vim ~/.vim_bk; mv ~/.vimrc ~/.vim_bk/; git clone https://github.com/kenchowcn/vimc.git ~/.vim/vimc && git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle && ln -s ~/.vim/vimc/vimrc ~/.vimrc && echo "Install success Step 1."
 
 ####Step 2
 1. Running Vim

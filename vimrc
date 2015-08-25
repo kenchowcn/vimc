@@ -79,7 +79,6 @@ filetype plugin indent on
 set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1
 set encoding=utf-8
 set langmenu=zh_CN.UTF-8
-language message zh_CN.UTF-8
 
 "编辑
 set magic "magic(\m)：除了 $ . * ^ 之外其他元字符都要加反斜杠 
